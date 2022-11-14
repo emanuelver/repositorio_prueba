@@ -1,2 +1,2 @@
 # Repositorio dePrueba
-**Repositorio para el curso de JS**
+Repositorio para el curso de JS
