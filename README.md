@@ -1,4 +1,4 @@
 # Repositorio dePrueba
 Repositorio para el curso de JS
-**bold**
-*italica*
+1. **bold**
+2. *italica*
